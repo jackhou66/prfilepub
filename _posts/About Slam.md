@@ -1,13 +1,13 @@
 ---
 layout: post
-title: " good day "
-subtitle: "So long, and thanks for all "
+title: " Beginner's mind "
+subtitle: "It's wonderful to have a beginner's mind "
 author: "Hou"
 header-img: "img/event.jpg"
 header-mask: 0.2
 tags:
-  - Web
-  - Flash
+  - C++
+  - Robot
 ---
 ---
 
